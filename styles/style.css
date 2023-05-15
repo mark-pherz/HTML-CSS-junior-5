@@ -214,7 +214,7 @@
 
 .footer__text {
   font-family: "sans-variable";
-  font-weight: 600;
+  font-weight: 500;
   font-size: clamp(0.75rem, 0.625rem + 0.313vw, 0.875rem);
 }
 
